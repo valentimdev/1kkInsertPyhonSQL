@@ -1,6 +1,6 @@
 # 1kkInsertPyhonSQL
 
-#FAÇA ESSES INSERTS PARA O SCRIPT FUNCIONAR
+FAÇA ESSES INSERTS PARA O SCRIPT FUNCIONAR
 USE laravel;
 
 INSERT INTO `subscription_plans` (`id`, `name`, `storage_limit`, `price`, `description`, `created_at`, `updated_at`) VALUES
